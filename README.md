@@ -1,2 +1,2 @@
-# OatyGoat-Studios.github.io
-website
+# Establishing Dominance Studios
+this is a website
